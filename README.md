@@ -55,11 +55,11 @@ body {
 ### Pagina principală
 ![Pagina Principală](https://via.placeholder.com/800x400 "Pagina Principală")
 
-### Carduri cu conținut
-![Carduri](https://via.placeholder.com/800x400 "Carduri cu informații")
+### Exemplu de Carduri
+![Exemplu Carduri](https://via.placeholder.com/800x400?text=Exemplu+Carduri)
 
-### Grafică interactivă
-![Grafică](https://via.placeholder.com/800x400 "Elemente grafice interactive")
+### Videoclipuri Integrate
+![Videoclipuri](https://via.placeholder.com/800x400?text=Videoclipuri+YouTube)
 
 ## Concluzii
 Jocurile video nu sunt doar mijloace de divertisment, ci și instrumente educaționale puternice. Acest proiect demonstrează cum tehnologia poate fi folosită pentru a crește interesul elevilor față de educație și pentru a dezvolta competențe esențiale.
