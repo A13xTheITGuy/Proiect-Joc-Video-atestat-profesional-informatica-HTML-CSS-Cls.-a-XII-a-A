@@ -3,7 +3,7 @@
 
 Un proiect educațional realizat pentru atestatul profesional la informatică, ce explorează evoluția fascinantă a jocurilor video. Proiectul este construit sub forma unui site web interactiv, utilizând tehnologii precum HTML și CSS.
 
-![Jocuri Video](.imagini pentru prezentare/Logo_Jocuri_Video.jpg)
+![Jocuri Video](imagini pentru prezentare/Logo_Jocuri_Video.jpg)
 
 ## Structura proiectului
 
@@ -43,12 +43,6 @@ body {
 - **Design prietenos**: Folosirea CSS pentru o interfață atractivă.
 - **Responsivitate**: Optimizare pentru diferite dimensiuni de ecran.
 - **Videoclipuri informative**: Încorporarea de clipuri YouTube.
-
-### Exemple de video
-![Video Informativ](https://via.placeholder.com/600x300 "Video despre jocuri video")
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/example" frameborder="0"></iframe>
-```
 
 ## Capturi de ecran
 
