@@ -1,6 +1,6 @@
 # Proiect-Joc-Video-atestat-profesional-informatica-HTML-CSS-Cls.-a-XII-a-A License
 
-Copyright (c) 2025 A13xTheITGuy @ https://github.com/A13xTheITGuy
+Copyright (c) 2025 A13xTheITGuy <https://github.com/A13xTheITGuy>
 
 ### Permission to use, copy, and inspire:
 - You are permitted to **use** this project for **personal** purposes only.
